@@ -37,7 +37,7 @@ SQL
 Pandas | Data Analysis | Power BI | Excel
 
 **Machine Learning:**  
-scikit-learn | Machine Learning
+Machine Learning | scikit-learn
 
 **Web:**  
 HTML | CSS
